@@ -16,7 +16,7 @@ function App() {
         Edit completed < code > src / App.js < /code> and save to reload.</p >
         <
         /header>   < /
-        div >
+        div > < /p>
     );
 }
 
