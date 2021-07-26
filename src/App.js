@@ -13,10 +13,10 @@ function App() {
 
         <
         p >
-        Edit done < code > src / App.js < /code> and save to reload.</p >
+        Edit completed < code > src / App.js < /code> and save to reload.</p >
         <
-        /header>   <
-        /div>
+        /header>   < /
+        div >
     );
 }
 
